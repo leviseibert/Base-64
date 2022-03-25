@@ -1,4 +1,0 @@
-﻿  b64decode.cpp
-c:\users\familyp\documents\levi\athens state\fall 2021\cs 484\b64decode\b64decode\b64decode.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
-c:\users\familyp\documents\levi\athens state\fall 2021\cs 484\b64decode\b64decode\b64decode.cpp(97): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
-  b64decode.vcxproj -> C:\Users\FamilyP\Documents\Levi\Athens State\Fall 2021\CS 484\b64decode\Debug\b64decode.exe
