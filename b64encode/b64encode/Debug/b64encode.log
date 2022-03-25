@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  b64encode.cpp
+C:\Users\levis\OneDrive\Documents\Athens State\Fall 2021\CS 484\b64encode\b64encode\b64encode.cpp(23,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\levis\OneDrive\Documents\Athens State\Fall 2021\CS 484\b64encode\b64encode\b64encode.cpp(26,24): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\levis\OneDrive\Documents\Athens State\Fall 2021\CS 484\b64encode\b64encode\b64encode.cpp(87,43): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+  b64encode.vcxproj -> C:\Users\levis\OneDrive\Documents\Athens State\Fall 2021\CS 484\b64encode\Debug\b64encode.exe
